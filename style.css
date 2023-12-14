@@ -129,6 +129,19 @@ header .column span{
     display: none;
 }
 
+.footer{
+    position: fixed;
+    bottom: 0;
+    left:0;
+    width:100%;
+    text-align: center;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    color:#002765;
+}
+
 @media screen and (max-width: 815px){
     .wrapper{
         padding: 25px;
