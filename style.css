@@ -135,11 +135,11 @@ header .column span{
     left:0;
     width:100%;
     text-align: center;
-    background-color: whitesmoke;
+    background-color: rgb(72, 59, 145);
     display: flex;
     justify-content: center;
     padding: 10px;
-    color:#002765;
+    color:#ffffff;
 }
 
 @media screen and (max-width: 815px){
